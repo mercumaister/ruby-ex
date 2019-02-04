@@ -32,7 +32,7 @@ map '/' do
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>prova di modifica</title>
+  <title>TAB</title>
 
 
 <style>
@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Benvenuto nella tua applicazione  Ruby su OpenShift</h1>
           </hgroup>
 
 
